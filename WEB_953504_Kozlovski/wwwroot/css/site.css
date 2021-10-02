@@ -1,0 +1,23 @@
+﻿header, footer {
+    background-color: #343a40;
+}
+
+.nav-color {
+    color: rgba(255, 255, 255, 0.5)
+}
+
+.custom-line {
+    border-width: 1.7px;
+}
+
+.custom-radio {
+    margin-right: 15px;
+}
+.custom-radio input {
+    margin-top: 7px;
+}
+
+.custom-btn {
+    border-color: #0B9DB5;
+    background-color: #0B9DB5;
+}
