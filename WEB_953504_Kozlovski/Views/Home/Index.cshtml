@@ -1,8 +1,72 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+﻿<h2>@ViewData["Text"]</h2>
+<h3>Список</h3>
+<ol type="A">
+    @for (int i = 1; i < 5; i++)
+    {
+        <li>'элемент @i списка</li>
+    }
+</ol>
+<hr class="custom-line" />
+<form method="post">
+    <h3>Форма</h3>
+    <select asp-items="@ViewData["Lst"] as SelectList"></select>
+    <div class="form-group row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-10">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="gridCheck1" name="check1">
+                <label class="form-check-label" for="gridCheck1">
+                    Чек-бокс 1
+                </label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="gridCheck2" name="check2">
+                <label class="form-check-label" for="gridCheck2">
+                    Чек-бокс 2
+                </label>
+            </div>
+        </div>
+    </div>
+    <fieldset class="form-group">
+        <div class="row">
+            <legend class="col-form-label col-sm-2 pt-0"></legend>
+            <div class="custom-control custom-control-inline">
+                <div class="form-check custom-radio">
+                    <input class="form-check-input" type="radio" name="radio" id="gridRadios1" value="option1" checked>
+                    <label class="form-check-label" for="gridRadios1">
+                        Радио-1
+                    </label>
+                </div>
+                <div class="form-check custom-radio">
+                    <input class="form-check-input" type="radio" name="radio" id="gridRadios2" value="option2">
+                    <label class="form-check-label" for="gridRadios2">
+                        Радио-2
+                    </label>
+                </div>
+                <div class="form-check custom-radio">
+                    <input class="form-check-input" type="radio" name="radio" id="gridRadios3" value="option3">
+                    <label class="form-check-label" for="gridRadios3">
+                        Радио-3
+                    </label>
+                </div>
+            </div>
+        </div>
+    </fieldset>
+    <div class="form-group row">
+        <label for="inputEmail" class="col-sm-2 col-form-label">Электронная почта:</label>
+        <div class="col-sm-10">
+            <input type="email" class="form-control" id="inputEmail" name="email" placeholder="Введите адрес электронной почты:">
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="inputPassword" class="col-sm-2 col-form-label">Пароль:</label>
+        <div class="col-sm-10">
+            <input type="password" class="form-control" id="inputPassword" name="password" placeholder="Введите пароль">
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-10">
+            <button type="submit" class="btn btn-primary custom-btn">Отправить</button>
+        </div>
+    </div>
+</form>
