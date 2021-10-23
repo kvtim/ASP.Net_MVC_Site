@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="16" viewBox="0 0 10 16">
+  <g id="drag" transform="translate(-7 -4)">
+    <path id="Icon_color" data-name="Icon color" d="M8,16a2,2,0,1,1,2-2A2,2,0,0,1,8,16ZM2,16a2,2,0,1,1,2-2A2,2,0,0,1,2,16Zm6-6a2,2,0,1,1,2-2A2,2,0,0,1,8,10ZM2,10A2,2,0,1,1,4,8,2,2,0,0,1,2,10ZM8,4a2,2,0,1,1,2-2A2,2,0,0,1,8,4ZM2,4A2,2,0,1,1,4,2,2,2,0,0,1,2,4Z" transform="translate(7 4)"/>
+  </g>
+</svg>

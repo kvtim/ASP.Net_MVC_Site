@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="eject_circle" transform="translate(-2 -2)">
+    <path id="Icon_color" data-name="Icon color" d="M10,20A10,10,0,1,1,20,10,10.011,10.011,0,0,1,10,20ZM5.5,12a.5.5,0,0,0-.5.5v1a.5.5,0,0,0,.5.5h9a.5.5,0,0,0,.5-.5v-1a.5.5,0,0,0-.5-.5Zm.21-2H14.3a.493.493,0,0,0,.353-.15l.2-.2a.5.5,0,0,0,0-.71l-4.5-4.79a.481.481,0,0,0-.7,0L5.15,8.94a.5.5,0,0,0,0,.71l.2.2A.493.493,0,0,0,5.7,10Z" transform="translate(2 2)"/>
+  </g>
+</svg>

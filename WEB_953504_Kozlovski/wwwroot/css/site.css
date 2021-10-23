@@ -2,8 +2,13 @@
     background-color: #343a40;
 }
 
+html,
+body {
+    height: 100%;
+}
+
 .nav-color {
-    color: rgba(255, 255, 255, 0.5)
+    color: rgba(255, 255, 255, 0.5);
 }
 
 .custom-line {

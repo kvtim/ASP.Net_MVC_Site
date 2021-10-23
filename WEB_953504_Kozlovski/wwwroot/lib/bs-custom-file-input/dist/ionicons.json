@@ -1,0 +1,2808 @@
+{
+  "name": "ionicons",
+  "version": "1.0.26",
+  "icons": [
+    {
+      "name": "360-degrees",
+      "tags": [
+        "360",
+        "degrees"
+      ]
+    },
+    {
+      "name": "add",
+      "tags": [
+        "add",
+        "circle",
+        "include",
+        "invite",
+        "plus"
+      ]
+    },
+    {
+      "name": "add-circle",
+      "tags": [
+        "add",
+        "circle",
+        "include",
+        "invite",
+        "plus"
+      ]
+    },
+    {
+      "name": "add-circle-outlined",
+      "tags": [
+        "add",
+        "circle",
+        "outlined"
+      ]
+    },
+    {
+      "name": "add-event",
+      "tags": [
+        "add",
+        "event"
+      ]
+    },
+    {
+      "name": "add-square",
+      "tags": [
+        "add",
+        "square"
+      ]
+    },
+    {
+      "name": "add-square-outlined",
+      "tags": [
+        "add",
+        "outlined",
+        "square"
+      ]
+    },
+    {
+      "name": "add-to-trash",
+      "tags": [
+        "add",
+        "to",
+        "trash"
+      ]
+    },
+    {
+      "name": "agenda-view",
+      "tags": [
+        "agenda",
+        "view"
+      ]
+    },
+    {
+      "name": "agenda-view-outlined",
+      "tags": [
+        "agenda",
+        "outlined",
+        "view"
+      ]
+    },
+    {
+      "name": "alarm",
+      "tags": [
+        "alarm",
+        "clock",
+        "time"
+      ]
+    },
+    {
+      "name": "alarm-add",
+      "tags": [
+        "add",
+        "alarm"
+      ]
+    },
+    {
+      "name": "alarm-alert",
+      "tags": [
+        "alarm",
+        "alert"
+      ]
+    },
+    {
+      "name": "alarm-off",
+      "tags": [
+        "alarm",
+        "off"
+      ]
+    },
+    {
+      "name": "alarm-on",
+      "tags": [
+        "alarm",
+        "on"
+      ]
+    },
+    {
+      "name": "album",
+      "tags": [
+        "album"
+      ]
+    },
+    {
+      "name": "albums",
+      "tags": [
+        "albums",
+        "boxes",
+        "slides",
+        "square"
+      ]
+    },
+    {
+      "name": "all-done",
+      "tags": [
+        "all",
+        "done"
+      ]
+    },
+    {
+      "name": "all-season",
+      "tags": [
+        "all",
+        "season"
+      ]
+    },
+    {
+      "name": "all-terrain",
+      "tags": [
+        "all",
+        "terrain"
+      ]
+    },
+    {
+      "name": "any-vehicle",
+      "tags": [
+        "any",
+        "vehicle"
+      ]
+    },
+    {
+      "name": "appointment",
+      "tags": [
+        "appointment"
+      ]
+    },
+    {
+      "name": "appointment-cancelled",
+      "tags": [
+        "appointment",
+        "cancelled"
+      ]
+    },
+    {
+      "name": "apps",
+      "tags": [
+        "applications",
+        "apps"
+      ]
+    },
+    {
+      "name": "appstore",
+      "tags": [
+        "appstore"
+      ]
+    },
+    {
+      "name": "archive",
+      "tags": [
+        "archive",
+        "email"
+      ]
+    },
+    {
+      "name": "arrow-backward",
+      "tags": [
+        "arrow",
+        "backward"
+      ]
+    },
+    {
+      "name": "arrow-doublesided-horizontal",
+      "tags": [
+        "arrow",
+        "doublesided",
+        "horizontal"
+      ]
+    },
+    {
+      "name": "arrow-doublesided-vertical",
+      "tags": [
+        "arrow",
+        "doublesided",
+        "vertical"
+      ]
+    },
+    {
+      "name": "arrow-downward",
+      "tags": [
+        "arrow",
+        "downward"
+      ]
+    },
+    {
+      "name": "arrow-drop-down-circle",
+      "tags": [
+        "arrow",
+        "circle",
+        "down",
+        "drop"
+      ]
+    },
+    {
+      "name": "arrow-drop-down-circle-outlined",
+      "tags": [
+        "arrow",
+        "circle",
+        "down",
+        "drop",
+        "outlined"
+      ]
+    },
+    {
+      "name": "arrow-drop-up-circle",
+      "tags": [
+        "arrow",
+        "circle",
+        "drop",
+        "up"
+      ]
+    },
+    {
+      "name": "arrow-drop-up-circle-outlined",
+      "tags": [
+        "arrow",
+        "circle",
+        "drop",
+        "outlined",
+        "up"
+      ]
+    },
+    {
+      "name": "arrow-forward",
+      "tags": [
+        "arrow",
+        "chevron",
+        "forward",
+        "navigation"
+      ]
+    },
+    {
+      "name": "arrow-large-backward",
+      "tags": [
+        "arrow",
+        "backward",
+        "large"
+      ]
+    },
+    {
+      "name": "arrow-large-backward-outlined",
+      "tags": [
+        "arrow",
+        "backward",
+        "large",
+        "outlined"
+      ]
+    },
+    {
+      "name": "arrow-large-downward",
+      "tags": [
+        "arrow",
+        "downward",
+        "large"
+      ]
+    },
+    {
+      "name": "arrow-large-downward-outlined",
+      "tags": [
+        "arrow",
+        "downward",
+        "large",
+        "outlined"
+      ]
+    },
+    {
+      "name": "arrow-large-forward",
+      "tags": [
+        "arrow",
+        "forward",
+        "large"
+      ]
+    },
+    {
+      "name": "arrow-large-forward-outlined",
+      "tags": [
+        "arrow",
+        "forward",
+        "large",
+        "outlined"
+      ]
+    },
+    {
+      "name": "arrow-large-upward",
+      "tags": [
+        "arrow",
+        "large",
+        "upward"
+      ]
+    },
+    {
+      "name": "arrow-large-upward-outlined",
+      "tags": [
+        "arrow",
+        "large",
+        "outlined",
+        "upward"
+      ]
+    },
+    {
+      "name": "arrow-left-circle",
+      "tags": [
+        "arrow",
+        "circle",
+        "left"
+      ]
+    },
+    {
+      "name": "arrow-left-circle-outlined",
+      "tags": [
+        "arrow",
+        "circle",
+        "left",
+        "outlined"
+      ]
+    },
+    {
+      "name": "arrow-long-down",
+      "tags": [
+        "arrow",
+        "down",
+        "long"
+      ]
+    },
+    {
+      "name": "arrow-long-left",
+      "tags": [
+        "arrow",
+        "left",
+        "long"
+      ]
+    },
+    {
+      "name": "arrow-long-right",
+      "tags": [
+        "arrow",
+        "long",
+        "right"
+      ]
+    },
+    {
+      "name": "arrow-long-up",
+      "tags": [
+        "arrow",
+        "long",
+        "up"
+      ]
+    },
+    {
+      "name": "arrow-right-circle",
+      "tags": [
+        "arrow",
+        "circle",
+        "right"
+      ]
+    },
+    {
+      "name": "arrow-right-circle-outlined",
+      "tags": [
+        "arrow",
+        "circle",
+        "outlined",
+        "right"
+      ]
+    },
+    {
+      "name": "arrow-upward",
+      "tags": [
+        "arrow",
+        "upward"
+      ]
+    },
+    {
+      "name": "attachment",
+      "tags": [
+        "attachment"
+      ]
+    },
+    {
+      "name": "attachment-diagonal",
+      "tags": [
+        "attachment",
+        "diagonal"
+      ]
+    },
+    {
+      "name": "autobild",
+      "tags": [
+        "autobild"
+      ]
+    },
+    {
+      "name": "autorenew",
+      "tags": [
+        "autorenew"
+      ]
+    },
+    {
+      "name": "back-ui",
+      "tags": [
+        "back",
+        "ui"
+      ]
+    },
+    {
+      "name": "behance",
+      "tags": [
+        "behance"
+      ]
+    },
+    {
+      "name": "best-in-class",
+      "tags": [
+        "best",
+        "class",
+        "in"
+      ]
+    },
+    {
+      "name": "bite-ice",
+      "tags": [
+        "bite",
+        "ice"
+      ]
+    },
+    {
+      "name": "block-ads",
+      "tags": [
+        "ads",
+        "block"
+      ]
+    },
+    {
+      "name": "block1icon",
+      "tags": [
+        "block1icon"
+      ]
+    },
+    {
+      "name": "block2icon",
+      "tags": [
+        "block2icon"
+      ]
+    },
+    {
+      "name": "block3icon",
+      "tags": [
+        "block3icon"
+      ]
+    },
+    {
+      "name": "blocked",
+      "tags": [
+        "blocked"
+      ]
+    },
+    {
+      "name": "bookmark",
+      "tags": [
+        "bookmark",
+        "favorite",
+        "save",
+        "tag"
+      ]
+    },
+    {
+      "name": "bookmark-outlined",
+      "tags": [
+        "bookmark",
+        "outlined"
+      ]
+    },
+    {
+      "name": "bookmarks",
+      "tags": [
+        "bookmarks",
+        "favorite"
+      ]
+    },
+    {
+      "name": "bookmarks-outlined",
+      "tags": [
+        "bookmarks",
+        "outlined"
+      ]
+    },
+    {
+      "name": "braking",
+      "tags": [
+        "braking"
+      ]
+    },
+    {
+      "name": "browser-window",
+      "tags": [
+        "browser",
+        "window"
+      ]
+    },
+    {
+      "name": "browser-windows",
+      "tags": [
+        "browser",
+        "windows"
+      ]
+    },
+    {
+      "name": "bs-s20-ice-performance-k",
+      "tags": [
+        "bs",
+        "ice",
+        "k",
+        "performance",
+        "s20"
+      ]
+    },
+    {
+      "name": "cached",
+      "tags": [
+        "cached"
+      ]
+    },
+    {
+      "name": "calendar",
+      "tags": [
+        "calendar",
+        "date",
+        "month",
+        "week"
+      ]
+    },
+    {
+      "name": "calendar-month",
+      "tags": [
+        "calendar",
+        "month"
+      ]
+    },
+    {
+      "name": "calendar-note",
+      "tags": [
+        "calendar",
+        "note"
+      ]
+    },
+    {
+      "name": "call",
+      "tags": [
+        "call",
+        "telephone"
+      ]
+    },
+    {
+      "name": "call-cancelled",
+      "tags": [
+        "call",
+        "cancelled"
+      ]
+    },
+    {
+      "name": "call-ended",
+      "tags": [
+        "call",
+        "ended"
+      ]
+    },
+    {
+      "name": "call-forward",
+      "tags": [
+        "call",
+        "forward"
+      ]
+    },
+    {
+      "name": "call-talking",
+      "tags": [
+        "call",
+        "talking"
+      ]
+    },
+    {
+      "name": "call-talking-quiet",
+      "tags": [
+        "call",
+        "quiet",
+        "talking"
+      ]
+    },
+    {
+      "name": "caret-down",
+      "tags": [
+        "caret",
+        "down"
+      ]
+    },
+    {
+      "name": "caret-left",
+      "tags": [
+        "caret",
+        "left"
+      ]
+    },
+    {
+      "name": "caret-right",
+      "tags": [
+        "caret",
+        "right"
+      ]
+    },
+    {
+      "name": "caret-up",
+      "tags": [
+        "caret",
+        "up"
+      ]
+    },
+    {
+      "name": "carousel-horizontal",
+      "tags": [
+        "carousel",
+        "horizontal"
+      ]
+    },
+    {
+      "name": "carousel-horizontal-outlined",
+      "tags": [
+        "carousel",
+        "horizontal",
+        "outlined"
+      ]
+    },
+    {
+      "name": "carousel-vertical",
+      "tags": [
+        "carousel",
+        "vertical"
+      ]
+    },
+    {
+      "name": "carousel-vertical-outlined",
+      "tags": [
+        "carousel",
+        "outlined",
+        "vertical"
+      ]
+    },
+    {
+      "name": "category",
+      "tags": [
+        "category"
+      ]
+    },
+    {
+      "name": "category-outlined",
+      "tags": [
+        "category",
+        "outlined"
+      ]
+    },
+    {
+      "name": "chat",
+      "tags": [
+        "chat"
+      ]
+    },
+    {
+      "name": "chat-outlined",
+      "tags": [
+        "chat",
+        "outlined"
+      ]
+    },
+    {
+      "name": "checkmark-circle",
+      "tags": [
+        "checkmark",
+        "circle"
+      ]
+    },
+    {
+      "name": "checkmark-circle-outlined",
+      "tags": [
+        "checkmark",
+        "circle",
+        "outlined"
+      ]
+    },
+    {
+      "name": "checkmark-square",
+      "tags": [
+        "checkmark",
+        "square"
+      ]
+    },
+    {
+      "name": "checkmark-square-outlined",
+      "tags": [
+        "checkmark",
+        "outlined",
+        "square"
+      ]
+    },
+    {
+      "name": "chevron-down",
+      "tags": [
+        "chevron",
+        "down"
+      ]
+    },
+    {
+      "name": "chevron-left",
+      "tags": [
+        "chevron",
+        "left"
+      ]
+    },
+    {
+      "name": "chevron-right",
+      "tags": [
+        "chevron",
+        "right"
+      ]
+    },
+    {
+      "name": "chevron-up",
+      "tags": [
+        "chevron",
+        "up"
+      ]
+    },
+    {
+      "name": "clear",
+      "tags": [
+        "clear"
+      ]
+    },
+    {
+      "name": "clear-circle",
+      "tags": [
+        "circle",
+        "clear"
+      ]
+    },
+    {
+      "name": "clear-circle-outlined",
+      "tags": [
+        "circle",
+        "clear",
+        "outlined"
+      ]
+    },
+    {
+      "name": "clear-square",
+      "tags": [
+        "clear",
+        "square"
+      ]
+    },
+    {
+      "name": "clear-square-outlined",
+      "tags": [
+        "clear",
+        "outlined",
+        "square"
+      ]
+    },
+    {
+      "name": "collapse-all",
+      "tags": [
+        "all",
+        "collapse"
+      ]
+    },
+    {
+      "name": "column-view",
+      "tags": [
+        "column",
+        "view"
+      ]
+    },
+    {
+      "name": "column-view-outlined",
+      "tags": [
+        "column",
+        "outlined",
+        "view"
+      ]
+    },
+    {
+      "name": "comfort",
+      "tags": [
+        "comfort"
+      ]
+    },
+    {
+      "name": "command",
+      "tags": [
+        "command"
+      ]
+    },
+    {
+      "name": "command-outlined",
+      "tags": [
+        "command",
+        "outlined"
+      ]
+    },
+    {
+      "name": "comment",
+      "tags": [
+        "comment"
+      ]
+    },
+    {
+      "name": "comment-image",
+      "tags": [
+        "comment",
+        "image"
+      ]
+    },
+    {
+      "name": "comment-image-outlined",
+      "tags": [
+        "comment",
+        "image",
+        "outlined"
+      ]
+    },
+    {
+      "name": "comment-outlined",
+      "tags": [
+        "comment",
+        "outlined"
+      ]
+    },
+    {
+      "name": "comment-play",
+      "tags": [
+        "comment",
+        "play"
+      ]
+    },
+    {
+      "name": "comment-play-outlined",
+      "tags": [
+        "comment",
+        "outlined",
+        "play"
+      ]
+    },
+    {
+      "name": "comment-text",
+      "tags": [
+        "comment",
+        "text"
+      ]
+    },
+    {
+      "name": "comment-text-outlined",
+      "tags": [
+        "comment",
+        "outlined",
+        "text"
+      ]
+    },
+    {
+      "name": "comment-video",
+      "tags": [
+        "comment",
+        "video"
+      ]
+    },
+    {
+      "name": "comment-vs",
+      "tags": [
+        "comment",
+        "vs"
+      ]
+    },
+    {
+      "name": "comment-vs-outlined",
+      "tags": [
+        "comment",
+        "outlined",
+        "vs"
+      ]
+    },
+    {
+      "name": "contact-notebook",
+      "tags": [
+        "contact",
+        "notebook"
+      ]
+    },
+    {
+      "name": "contacts",
+      "tags": [
+        "contacts"
+      ]
+    },
+    {
+      "name": "contacts-book",
+      "tags": [
+        "book",
+        "contacts"
+      ]
+    },
+    {
+      "name": "control",
+      "tags": [
+        "control"
+      ]
+    },
+    {
+      "name": "convenience",
+      "tags": [
+        "convenience"
+      ]
+    },
+    {
+      "name": "dashboard",
+      "tags": [
+        "dashboard"
+      ]
+    },
+    {
+      "name": "dashboard-outlined",
+      "tags": [
+        "dashboard",
+        "outlined"
+      ]
+    },
+    {
+      "name": "dashboard-vs",
+      "tags": [
+        "dashboard",
+        "vs"
+      ]
+    },
+    {
+      "name": "dashboard-vs-outlined",
+      "tags": [
+        "dashboard",
+        "outlined",
+        "vs"
+      ]
+    },
+    {
+      "name": "date-range",
+      "tags": [
+        "date",
+        "range"
+      ]
+    },
+    {
+      "name": "delete-outlined",
+      "tags": [
+        "delete",
+        "outlined"
+      ]
+    },
+    {
+      "name": "dg",
+      "tags": [
+        "dg"
+      ]
+    },
+    {
+      "name": "done",
+      "tags": [
+        "done"
+      ]
+    },
+    {
+      "name": "double-caret-horizontal",
+      "tags": [
+        "caret",
+        "double",
+        "horizontal"
+      ]
+    },
+    {
+      "name": "double-caret-vertical",
+      "tags": [
+        "caret",
+        "double",
+        "vertical"
+      ]
+    },
+    {
+      "name": "down-ui",
+      "tags": [
+        "down",
+        "ui"
+      ]
+    },
+    {
+      "name": "download",
+      "tags": [
+        "download",
+        "export"
+      ]
+    },
+    {
+      "name": "download-outlined",
+      "tags": [
+        "download",
+        "outlined"
+      ]
+    },
+    {
+      "name": "download-to",
+      "tags": [
+        "download",
+        "to"
+      ]
+    },
+    {
+      "name": "draft",
+      "tags": [
+        "draft"
+      ]
+    },
+    {
+      "name": "drag",
+      "tags": [
+        "drag"
+      ]
+    },
+    {
+      "name": "dribbble",
+      "tags": [
+        "dribbble"
+      ]
+    },
+    {
+      "name": "dropbox",
+      "tags": [
+        "dropbox"
+      ]
+    },
+    {
+      "name": "economy",
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "name": "edit",
+      "tags": [
+        "edit"
+      ]
+    },
+    {
+      "name": "eject",
+      "tags": [
+        "eject"
+      ]
+    },
+    {
+      "name": "eject-circle",
+      "tags": [
+        "circle",
+        "eject"
+      ]
+    },
+    {
+      "name": "eject-circle-outlined",
+      "tags": [
+        "circle",
+        "eject",
+        "outlined"
+      ]
+    },
+    {
+      "name": "email",
+      "tags": [
+        "email"
+      ]
+    },
+    {
+      "name": "email-outlined",
+      "tags": [
+        "email",
+        "outlined"
+      ]
+    },
+    {
+      "name": "event",
+      "tags": [
+        "event"
+      ]
+    },
+    {
+      "name": "exit-fullscreen-1-1",
+      "tags": [
+        "1",
+        "1",
+        "exit",
+        "fullscreen"
+      ]
+    },
+    {
+      "name": "exit-fullscreen-16-9",
+      "tags": [
+        "16",
+        "9",
+        "exit",
+        "fullscreen"
+      ]
+    },
+    {
+      "name": "exit-fullscreen-4-3",
+      "tags": [
+        "3",
+        "4",
+        "exit",
+        "fullscreen"
+      ]
+    },
+    {
+      "name": "expand-all",
+      "tags": [
+        "all",
+        "expand"
+      ]
+    },
+    {
+      "name": "explore",
+      "tags": [
+        "explore"
+      ]
+    },
+    {
+      "name": "explore-off",
+      "tags": [
+        "explore",
+        "off"
+      ]
+    },
+    {
+      "name": "explore-off-outlined",
+      "tags": [
+        "explore",
+        "off",
+        "outlined"
+      ]
+    },
+    {
+      "name": "explore-outlined",
+      "tags": [
+        "explore",
+        "outlined"
+      ]
+    },
+    {
+      "name": "facebook",
+      "tags": [
+        "facebook"
+      ]
+    },
+    {
+      "name": "facebook-square",
+      "tags": [
+        "facebook",
+        "square"
+      ]
+    },
+    {
+      "name": "favorite-comment",
+      "tags": [
+        "comment",
+        "favorite"
+      ]
+    },
+    {
+      "name": "feed",
+      "tags": [
+        "feed"
+      ]
+    },
+    {
+      "name": "feed-outlined",
+      "tags": [
+        "feed",
+        "outlined"
+      ]
+    },
+    {
+      "name": "file",
+      "tags": [
+        "file"
+      ]
+    },
+    {
+      "name": "filter",
+      "tags": [
+        "filter"
+      ]
+    },
+    {
+      "name": "filter-list",
+      "tags": [
+        "filter",
+        "list"
+      ]
+    },
+    {
+      "name": "filter-outlined",
+      "tags": [
+        "filter",
+        "outlined"
+      ]
+    },
+    {
+      "name": "find-replace",
+      "tags": [
+        "find",
+        "replace"
+      ]
+    },
+    {
+      "name": "first-page",
+      "tags": [
+        "first",
+        "page"
+      ]
+    },
+    {
+      "name": "fit-by-two",
+      "tags": [
+        "by",
+        "fit",
+        "two"
+      ]
+    },
+    {
+      "name": "format-bullets",
+      "tags": [
+        "bullets",
+        "format"
+      ]
+    },
+    {
+      "name": "format-points",
+      "tags": [
+        "format",
+        "points"
+      ]
+    },
+    {
+      "name": "fuel-economy",
+      "tags": [
+        "economy",
+        "fuel"
+      ]
+    },
+    {
+      "name": "github",
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "name": "gmail",
+      "tags": [
+        "gmail"
+      ]
+    },
+    {
+      "name": "gmail-outlined",
+      "tags": [
+        "gmail",
+        "outlined"
+      ]
+    },
+    {
+      "name": "google",
+      "tags": [
+        "google"
+      ]
+    },
+    {
+      "name": "google-drive",
+      "tags": [
+        "drive",
+        "google"
+      ]
+    },
+    {
+      "name": "google-play",
+      "tags": [
+        "google",
+        "play"
+      ]
+    },
+    {
+      "name": "grip",
+      "tags": [
+        "grip"
+      ]
+    },
+    {
+      "name": "hangouts",
+      "tags": [
+        "hangouts"
+      ]
+    },
+    {
+      "name": "hangouts-outlined",
+      "tags": [
+        "hangouts",
+        "outlined"
+      ]
+    },
+    {
+      "name": "heart",
+      "tags": [
+        "heart",
+        "love"
+      ]
+    },
+    {
+      "name": "heart-outlined",
+      "tags": [
+        "heart",
+        "outlined"
+      ]
+    },
+    {
+      "name": "help",
+      "tags": [
+        "?",
+        "circle",
+        "help",
+        "information",
+        "question"
+      ]
+    },
+    {
+      "name": "help-outlined",
+      "tags": [
+        "help",
+        "outlined"
+      ]
+    },
+    {
+      "name": "hidden",
+      "tags": [
+        "hidden"
+      ]
+    },
+    {
+      "name": "hidden-outlined",
+      "tags": [
+        "hidden",
+        "outlined"
+      ]
+    },
+    {
+      "name": "high-speed-performance",
+      "tags": [
+        "high",
+        "performance",
+        "speed"
+      ]
+    },
+    {
+      "name": "history",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "name": "home",
+      "tags": [
+        "home",
+        "house"
+      ]
+    },
+    {
+      "name": "home-outlined",
+      "tags": [
+        "home",
+        "outlined"
+      ]
+    },
+    {
+      "name": "home-vs",
+      "tags": [
+        "home",
+        "vs"
+      ]
+    },
+    {
+      "name": "home-vs-1-outlined",
+      "tags": [
+        "1",
+        "home",
+        "outlined",
+        "vs"
+      ]
+    },
+    {
+      "name": "home-vs-2-outlined",
+      "tags": [
+        "2",
+        "home",
+        "outlined",
+        "vs"
+      ]
+    },
+    {
+      "name": "hot",
+      "tags": [
+        "hot"
+      ]
+    },
+    {
+      "name": "import-export",
+      "tags": [
+        "export",
+        "import"
+      ]
+    },
+    {
+      "name": "import-outline",
+      "tags": [
+        "import",
+        "outline"
+      ]
+    },
+    {
+      "name": "inbox",
+      "tags": [
+        "inbox"
+      ]
+    },
+    {
+      "name": "inboxes",
+      "tags": [
+        "inboxes"
+      ]
+    },
+    {
+      "name": "incognito",
+      "tags": [
+        "incognito"
+      ]
+    },
+    {
+      "name": "info",
+      "tags": [
+        "info"
+      ]
+    },
+    {
+      "name": "info-outined",
+      "tags": [
+        "info",
+        "outined"
+      ]
+    },
+    {
+      "name": "instagram",
+      "tags": [
+        "instagram"
+      ]
+    },
+    {
+      "name": "invisible",
+      "tags": [
+        "invisible"
+      ]
+    },
+    {
+      "name": "key",
+      "tags": [
+        "access",
+        "key"
+      ]
+    },
+    {
+      "name": "label",
+      "tags": [
+        "label"
+      ]
+    },
+    {
+      "name": "label-grades",
+      "tags": [
+        "grades",
+        "label"
+      ]
+    },
+    {
+      "name": "label-important",
+      "tags": [
+        "important",
+        "label"
+      ]
+    },
+    {
+      "name": "label-off",
+      "tags": [
+        "label",
+        "off"
+      ]
+    },
+    {
+      "name": "label-outlined",
+      "tags": [
+        "label",
+        "outlined"
+      ]
+    },
+    {
+      "name": "labels",
+      "tags": [
+        "labels"
+      ]
+    },
+    {
+      "name": "labels-outlined",
+      "tags": [
+        "labels",
+        "outlined"
+      ]
+    },
+    {
+      "name": "last-page",
+      "tags": [
+        "last",
+        "page"
+      ]
+    },
+    {
+      "name": "launch",
+      "tags": [
+        "launch"
+      ]
+    },
+    {
+      "name": "launch-outlined",
+      "tags": [
+        "launch",
+        "outlined"
+      ]
+    },
+    {
+      "name": "layout",
+      "tags": [
+        "layout"
+      ]
+    },
+    {
+      "name": "linkedin",
+      "tags": [
+        "linkedin"
+      ]
+    },
+    {
+      "name": "linkedin-square",
+      "tags": [
+        "linkedin",
+        "square"
+      ]
+    },
+    {
+      "name": "location-marker",
+      "tags": [
+        "location",
+        "marker"
+      ]
+    },
+    {
+      "name": "lock",
+      "tags": [
+        "lock"
+      ]
+    },
+    {
+      "name": "lock-open-outlined",
+      "tags": [
+        "lock",
+        "open",
+        "outlined"
+      ]
+    },
+    {
+      "name": "lock-opened",
+      "tags": [
+        "lock",
+        "opened"
+      ]
+    },
+    {
+      "name": "lock-outlined",
+      "tags": [
+        "lock",
+        "outlined"
+      ]
+    },
+    {
+      "name": "loud-noise",
+      "tags": [
+        "loud",
+        "noise"
+      ]
+    },
+    {
+      "name": "made-call",
+      "tags": [
+        "call",
+        "made"
+      ]
+    },
+    {
+      "name": "medium-noise",
+      "tags": [
+        "medium",
+        "noise"
+      ]
+    },
+    {
+      "name": "menu-hamburger",
+      "tags": [
+        "hamburger",
+        "menu"
+      ]
+    },
+    {
+      "name": "menu-left",
+      "tags": [
+        "left",
+        "menu"
+      ]
+    },
+    {
+      "name": "menu-left-right",
+      "tags": [
+        "left",
+        "menu",
+        "right"
+      ]
+    },
+    {
+      "name": "menu-vs",
+      "tags": [
+        "menu",
+        "vs"
+      ]
+    },
+    {
+      "name": "menu-vs-outlined",
+      "tags": [
+        "menu",
+        "outlined",
+        "vs"
+      ]
+    },
+    {
+      "name": "message",
+      "tags": [
+        "message"
+      ]
+    },
+    {
+      "name": "message-add",
+      "tags": [
+        "add",
+        "message"
+      ]
+    },
+    {
+      "name": "message-add-outlined",
+      "tags": [
+        "add",
+        "message",
+        "outlined"
+      ]
+    },
+    {
+      "name": "message-outlined",
+      "tags": [
+        "message",
+        "outlined"
+      ]
+    },
+    {
+      "name": "message-play",
+      "tags": [
+        "message",
+        "play"
+      ]
+    },
+    {
+      "name": "message-play-outlined",
+      "tags": [
+        "message",
+        "outlined",
+        "play"
+      ]
+    },
+    {
+      "name": "messages",
+      "tags": [
+        "messages"
+      ]
+    },
+    {
+      "name": "messages-outlined",
+      "tags": [
+        "messages",
+        "outlined"
+      ]
+    },
+    {
+      "name": "messenger",
+      "tags": [
+        "messenger"
+      ]
+    },
+    {
+      "name": "messenger-outlined",
+      "tags": [
+        "messenger",
+        "outlined"
+      ]
+    },
+    {
+      "name": "missed-call",
+      "tags": [
+        "call",
+        "missed"
+      ]
+    },
+    {
+      "name": "missed-call-outgoing",
+      "tags": [
+        "call",
+        "missed",
+        "outgoing"
+      ]
+    },
+    {
+      "name": "mms",
+      "tags": [
+        "mms"
+      ]
+    },
+    {
+      "name": "mms-outlined",
+      "tags": [
+        "mms",
+        "outlined"
+      ]
+    },
+    {
+      "name": "more-horizontal",
+      "tags": [
+        "horizontal",
+        "more"
+      ]
+    },
+    {
+      "name": "more-vertical",
+      "tags": [
+        "more",
+        "vertical"
+      ]
+    },
+    {
+      "name": "move-page",
+      "tags": [
+        "move",
+        "page"
+      ]
+    },
+    {
+      "name": "multi-direction",
+      "tags": [
+        "direction",
+        "multi"
+      ]
+    },
+    {
+      "name": "multi-direction-diagonal",
+      "tags": [
+        "diagonal",
+        "direction",
+        "multi"
+      ]
+    },
+    {
+      "name": "new-email",
+      "tags": [
+        "email",
+        "new"
+      ]
+    },
+    {
+      "name": "new-message",
+      "tags": [
+        "message",
+        "new"
+      ]
+    },
+    {
+      "name": "next-ui",
+      "tags": [
+        "next",
+        "ui"
+      ]
+    },
+    {
+      "name": "noise",
+      "tags": [
+        "noise"
+      ]
+    },
+    {
+      "name": "notebook-bookmarked",
+      "tags": [
+        "bookmarked",
+        "notebook"
+      ]
+    },
+    {
+      "name": "notice",
+      "tags": [
+        "notice"
+      ]
+    },
+    {
+      "name": "notice-outlined",
+      "tags": [
+        "notice",
+        "outlined"
+      ]
+    },
+    {
+      "name": "ologic",
+      "tags": [
+        "ologic"
+      ]
+    },
+    {
+      "name": "open-in-new",
+      "tags": [
+        "in",
+        "new",
+        "open"
+      ]
+    },
+    {
+      "name": "pages",
+      "tags": [
+        "pages"
+      ]
+    },
+    {
+      "name": "pages-outlined",
+      "tags": [
+        "outlined",
+        "pages"
+      ]
+    },
+    {
+      "name": "password",
+      "tags": [
+        "password"
+      ]
+    },
+    {
+      "name": "password-open",
+      "tags": [
+        "open",
+        "password"
+      ]
+    },
+    {
+      "name": "pinterest",
+      "tags": [
+        "pinterest"
+      ]
+    },
+    {
+      "name": "pinterest-circle",
+      "tags": [
+        "circle",
+        "pinterest"
+      ]
+    },
+    {
+      "name": "playbutton",
+      "tags": [
+        "playbutton"
+      ]
+    },
+    {
+      "name": "publish",
+      "tags": [
+        "publish"
+      ]
+    },
+    {
+      "name": "pull-right-left",
+      "tags": [
+        "left",
+        "pull",
+        "right"
+      ]
+    },
+    {
+      "name": "quality",
+      "tags": [
+        "quality"
+      ]
+    },
+    {
+      "name": "received-call",
+      "tags": [
+        "call",
+        "received"
+      ]
+    },
+    {
+      "name": "record-screen",
+      "tags": [
+        "record",
+        "screen"
+      ]
+    },
+    {
+      "name": "reddit",
+      "tags": [
+        "reddit"
+      ]
+    },
+    {
+      "name": "refresh",
+      "tags": [
+        "circle",
+        "refresh",
+        "reload",
+        "renew",
+        "reset"
+      ]
+    },
+    {
+      "name": "remaining-time",
+      "tags": [
+        "remaining",
+        "time"
+      ]
+    },
+    {
+      "name": "remove",
+      "tags": [
+        "circle",
+        "minus",
+        "remove",
+        "subtract"
+      ]
+    },
+    {
+      "name": "remove-circle",
+      "tags": [
+        "circle",
+        "minus",
+        "remove",
+        "subtract"
+      ]
+    },
+    {
+      "name": "remove-circle-outlined",
+      "tags": [
+        "circle",
+        "outlined",
+        "remove"
+      ]
+    },
+    {
+      "name": "remove-from-trash",
+      "tags": [
+        "from",
+        "remove",
+        "trash"
+      ]
+    },
+    {
+      "name": "remove-square",
+      "tags": [
+        "remove",
+        "square"
+      ]
+    },
+    {
+      "name": "remove-square-outlined",
+      "tags": [
+        "outlined",
+        "remove",
+        "square"
+      ]
+    },
+    {
+      "name": "repair",
+      "tags": [
+        "repair"
+      ]
+    },
+    {
+      "name": "reply",
+      "tags": [
+        "reply"
+      ]
+    },
+    {
+      "name": "reply-all",
+      "tags": [
+        "all",
+        "reply"
+      ]
+    },
+    {
+      "name": "responsiveness",
+      "tags": [
+        "responsiveness"
+      ]
+    },
+    {
+      "name": "responsivness",
+      "tags": [
+        "responsivness"
+      ]
+    },
+    {
+      "name": "restore",
+      "tags": [
+        "restore"
+      ]
+    },
+    {
+      "name": "rim",
+      "tags": [
+        "rim"
+      ]
+    },
+    {
+      "name": "robusteness",
+      "tags": [
+        "robusteness"
+      ]
+    },
+    {
+      "name": "search",
+      "tags": [
+        "glass",
+        "magnifying",
+        "search"
+      ]
+    },
+    {
+      "name": "send",
+      "tags": [
+        "email",
+        "paper",
+        "send"
+      ]
+    },
+    {
+      "name": "send-outlined",
+      "tags": [
+        "outlined",
+        "send"
+      ]
+    },
+    {
+      "name": "settings",
+      "tags": [
+        "options",
+        "settings"
+      ]
+    },
+    {
+      "name": "settings-back",
+      "tags": [
+        "back",
+        "settings"
+      ]
+    },
+    {
+      "name": "settings-outlined",
+      "tags": [
+        "outlined",
+        "settings"
+      ]
+    },
+    {
+      "name": "settings-vs",
+      "tags": [
+        "settings",
+        "vs"
+      ]
+    },
+    {
+      "name": "settings-vs-outlined",
+      "tags": [
+        "outlined",
+        "settings",
+        "vs"
+      ]
+    },
+    {
+      "name": "share",
+      "tags": [
+        "share"
+      ]
+    },
+    {
+      "name": "share-screen",
+      "tags": [
+        "screen",
+        "share"
+      ]
+    },
+    {
+      "name": "share-vs",
+      "tags": [
+        "share",
+        "vs"
+      ]
+    },
+    {
+      "name": "shield-check",
+      "tags": [
+        "check",
+        "shield"
+      ]
+    },
+    {
+      "name": "shopping-basket",
+      "tags": [
+        "basket",
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-basket-add",
+      "tags": [
+        "add",
+        "basket",
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-basket-clear",
+      "tags": [
+        "basket",
+        "clear",
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-basket-outlined",
+      "tags": [
+        "basket",
+        "outlined",
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-basket-remove",
+      "tags": [
+        "basket",
+        "remove",
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-cart",
+      "tags": [
+        "cart",
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-cart-add",
+      "tags": [
+        "add",
+        "cart",
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-cart-off",
+      "tags": [
+        "cart",
+        "off",
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-cart-outlined",
+      "tags": [
+        "cart",
+        "outlined",
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-cart-remove",
+      "tags": [
+        "cart",
+        "remove",
+        "shopping"
+      ]
+    },
+    {
+      "name": "sign-in",
+      "tags": [
+        "in",
+        "sign"
+      ]
+    },
+    {
+      "name": "sign-out",
+      "tags": [
+        "out",
+        "sign"
+      ]
+    },
+    {
+      "name": "silent-noise",
+      "tags": [
+        "noise",
+        "silent"
+      ]
+    },
+    {
+      "name": "skype",
+      "tags": [
+        "skype"
+      ]
+    },
+    {
+      "name": "slack",
+      "tags": [
+        "slack"
+      ]
+    },
+    {
+      "name": "sms",
+      "tags": [
+        "sms"
+      ]
+    },
+    {
+      "name": "sms-active",
+      "tags": [
+        "active",
+        "sms"
+      ]
+    },
+    {
+      "name": "sms-active-outlined",
+      "tags": [
+        "active",
+        "outlined",
+        "sms"
+      ]
+    },
+    {
+      "name": "sms-chat",
+      "tags": [
+        "chat",
+        "sms"
+      ]
+    },
+    {
+      "name": "sms-chat-outlined",
+      "tags": [
+        "chat",
+        "outlined",
+        "sms"
+      ]
+    },
+    {
+      "name": "sms-outlined",
+      "tags": [
+        "outlined",
+        "sms"
+      ]
+    },
+    {
+      "name": "snapchat",
+      "tags": [
+        "snapchat"
+      ]
+    },
+    {
+      "name": "snapchat-outlined",
+      "tags": [
+        "outlined",
+        "snapchat"
+      ]
+    },
+    {
+      "name": "snooze",
+      "tags": [
+        "snooze"
+      ]
+    },
+    {
+      "name": "snooze-notification",
+      "tags": [
+        "notification",
+        "snooze"
+      ]
+    },
+    {
+      "name": "snow-performance",
+      "tags": [
+        "performance",
+        "snow"
+      ]
+    },
+    {
+      "name": "sort",
+      "tags": [
+        "sort"
+      ]
+    },
+    {
+      "name": "stability",
+      "tags": [
+        "stability"
+      ]
+    },
+    {
+      "name": "star",
+      "tags": [
+        "favorite",
+        "star"
+      ]
+    },
+    {
+      "name": "star-half",
+      "tags": [
+        "favorite",
+        "half",
+        "rate",
+        "star"
+      ]
+    },
+    {
+      "name": "star-outlined",
+      "tags": [
+        "outlined",
+        "star"
+      ]
+    },
+    {
+      "name": "steam",
+      "tags": [
+        "steam"
+      ]
+    },
+    {
+      "name": "subdirectory-left",
+      "tags": [
+        "left",
+        "subdirectory"
+      ]
+    },
+    {
+      "name": "subdirectory-right",
+      "tags": [
+        "right",
+        "subdirectory"
+      ]
+    },
+    {
+      "name": "subscribe",
+      "tags": [
+        "subscribe"
+      ]
+    },
+    {
+      "name": "summer",
+      "tags": [
+        "summer"
+      ]
+    },
+    {
+      "name": "superior-wear-life",
+      "tags": [
+        "life",
+        "superior",
+        "wear"
+      ]
+    },
+    {
+      "name": "support",
+      "tags": [
+        "support"
+      ]
+    },
+    {
+      "name": "support-vs",
+      "tags": [
+        "support",
+        "vs"
+      ]
+    },
+    {
+      "name": "swap",
+      "tags": [
+        "swap"
+      ]
+    },
+    {
+      "name": "swap-horizontal",
+      "tags": [
+        "horizontal",
+        "swap"
+      ]
+    },
+    {
+      "name": "swap-vs",
+      "tags": [
+        "swap",
+        "vs"
+      ]
+    },
+    {
+      "name": "sync",
+      "tags": [
+        "sync"
+      ]
+    },
+    {
+      "name": "sync-off",
+      "tags": [
+        "off",
+        "sync"
+      ]
+    },
+    {
+      "name": "tab",
+      "tags": [
+        "tab"
+      ]
+    },
+    {
+      "name": "tabs",
+      "tags": [
+        "tabs"
+      ]
+    },
+    {
+      "name": "telegram",
+      "tags": [
+        "telegram"
+      ]
+    },
+    {
+      "name": "time",
+      "tags": [
+        "clock",
+        "hour",
+        "minute",
+        "second",
+        "time",
+        "watch"
+      ]
+    },
+    {
+      "name": "time-20-s",
+      "tags": [
+        "20",
+        "s",
+        "time"
+      ]
+    },
+    {
+      "name": "time-30-s",
+      "tags": [
+        "30",
+        "s",
+        "time"
+      ]
+    },
+    {
+      "name": "time-40-s",
+      "tags": [
+        "40",
+        "s",
+        "time"
+      ]
+    },
+    {
+      "name": "timer",
+      "tags": [
+        "clock",
+        "timer"
+      ]
+    },
+    {
+      "name": "timer-20-s",
+      "tags": [
+        "20",
+        "s",
+        "timer"
+      ]
+    },
+    {
+      "name": "timer-30-s",
+      "tags": [
+        "30",
+        "s",
+        "timer"
+      ]
+    },
+    {
+      "name": "timer-40-s",
+      "tags": [
+        "40",
+        "s",
+        "timer"
+      ]
+    },
+    {
+      "name": "timer-off",
+      "tags": [
+        "off",
+        "timer"
+      ]
+    },
+    {
+      "name": "toggle-off",
+      "tags": [
+        "off",
+        "toggle"
+      ]
+    },
+    {
+      "name": "toggle-on",
+      "tags": [
+        "on",
+        "toggle"
+      ]
+    },
+    {
+      "name": "trash",
+      "tags": [
+        "close",
+        "delete",
+        "remove",
+        "trash"
+      ]
+    },
+    {
+      "name": "turn-off",
+      "tags": [
+        "off",
+        "turn"
+      ]
+    },
+    {
+      "name": "twitch",
+      "tags": [
+        "twitch"
+      ]
+    },
+    {
+      "name": "twitter",
+      "tags": [
+        "twitter"
+      ]
+    },
+    {
+      "name": "unarchive",
+      "tags": [
+        "unarchive"
+      ]
+    },
+    {
+      "name": "unsubscribe",
+      "tags": [
+        "unsubscribe"
+      ]
+    },
+    {
+      "name": "up-ui",
+      "tags": [
+        "ui",
+        "up"
+      ]
+    },
+    {
+      "name": "update",
+      "tags": [
+        "update"
+      ]
+    },
+    {
+      "name": "upload",
+      "tags": [
+        "upload"
+      ]
+    },
+    {
+      "name": "upload-outlined",
+      "tags": [
+        "outlined",
+        "upload"
+      ]
+    },
+    {
+      "name": "usp1",
+      "tags": [
+        "usp1"
+      ]
+    },
+    {
+      "name": "usp2",
+      "tags": [
+        "usp2"
+      ]
+    },
+    {
+      "name": "usp3",
+      "tags": [
+        "usp3"
+      ]
+    },
+    {
+      "name": "viber",
+      "tags": [
+        "viber"
+      ]
+    },
+    {
+      "name": "viber-outlined",
+      "tags": [
+        "outlined",
+        "viber"
+      ]
+    },
+    {
+      "name": "vibrations",
+      "tags": [
+        "vibrations"
+      ]
+    },
+    {
+      "name": "vibrations-off",
+      "tags": [
+        "off",
+        "vibrations"
+      ]
+    },
+    {
+      "name": "vimeo",
+      "tags": [
+        "vimeo"
+      ]
+    },
+    {
+      "name": "vimeo-square",
+      "tags": [
+        "square",
+        "vimeo"
+      ]
+    },
+    {
+      "name": "visible",
+      "tags": [
+        "visible"
+      ]
+    },
+    {
+      "name": "visible-outlined",
+      "tags": [
+        "outlined",
+        "visible"
+      ]
+    },
+    {
+      "name": "vkontakte",
+      "tags": [
+        "vkontakte"
+      ]
+    },
+    {
+      "name": "voice-chat",
+      "tags": [
+        "chat",
+        "voice"
+      ]
+    },
+    {
+      "name": "voicemail",
+      "tags": [
+        "voicemail"
+      ]
+    },
+    {
+      "name": "watch-later",
+      "tags": [
+        "later",
+        "watch"
+      ]
+    },
+    {
+      "name": "weather-snowy-rainy",
+      "tags": [
+        "rainy",
+        "snowy",
+        "weather"
+      ]
+    },
+    {
+      "name": "wet-performance",
+      "tags": [
+        "performance",
+        "wet"
+      ]
+    },
+    {
+      "name": "whatsapp",
+      "tags": [
+        "whatsapp"
+      ]
+    },
+    {
+      "name": "whatsapp-outlined",
+      "tags": [
+        "outlined",
+        "whatsapp"
+      ]
+    },
+    {
+      "name": "youtube",
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "name": "youtube-outlined",
+      "tags": [
+        "outlined",
+        "youtube"
+      ]
+    },
+    {
+      "name": "youtube-search",
+      "tags": [
+        "search",
+        "youtube"
+      ]
+    }
+  ]
+}

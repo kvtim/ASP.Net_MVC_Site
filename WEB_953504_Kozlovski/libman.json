@@ -5,6 +5,11 @@
     {
       "library": "font-awesome@5.15.4",
       "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "provider": "jsdelivr",
+      "library": "kars-bs-icons@1.0.26",
+      "destination": "wwwroot/lib/bs-custom-file-input/"
     }
   ]
 }

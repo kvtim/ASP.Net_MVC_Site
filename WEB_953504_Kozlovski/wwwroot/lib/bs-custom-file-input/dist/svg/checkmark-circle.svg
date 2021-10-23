@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="checkmark_circle" transform="translate(-2 -2)">
+    <path id="Icon_color" data-name="Icon color" d="M10,20A10,10,0,1,1,20,10,10.011,10.011,0,0,1,10,20ZM6.53,9.608a.48.48,0,0,0-.35.151l-.53.53a.5.5,0,0,0,0,.71l2.38,2.35a.479.479,0,0,0,.7,0l5.62-5.62a.5.5,0,0,0,0-.69l-.529-.53a.5.5,0,0,0-.7,0L8.38,11.25,6.88,9.76A.479.479,0,0,0,6.53,9.608Z" transform="translate(2 2)"/>
+  </g>
+</svg>

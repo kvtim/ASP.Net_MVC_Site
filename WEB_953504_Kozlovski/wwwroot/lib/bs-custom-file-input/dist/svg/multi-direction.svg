@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="multi_direction" transform="translate(-2.005 -2)">
+    <path id="Icon_color" data-name="Icon color" d="M19.856,10.36l-3,3A.5.5,0,0,1,16,13V11H11v5h2a.5.5,0,0,1,.36.851l-3,3a.51.51,0,0,1-.71,0l-3-3A.5.5,0,0,1,6.995,16h2V11h-5v2a.5.5,0,0,1-.85.35l-3-3a.51.51,0,0,1,0-.71l3-3a.5.5,0,0,1,.85.36V9h5V4h-2a.5.5,0,0,1-.35-.851l3-3a.51.51,0,0,1,.71,0l3,3A.5.5,0,0,1,13,4H11V9h5V7a.5.5,0,0,1,.85-.36l3,3A.51.51,0,0,1,19.856,10.36Z" transform="translate(2.005 2)"/>
+  </g>
+</svg>

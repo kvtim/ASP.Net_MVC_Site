@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16">
+  <g id="carousel_horizontal_outlined" transform="translate(-2 -4)">
+    <path id="Icon_color" data-name="Icon color" d="M14,16H6a2,2,0,0,1-2-2V2A2,2,0,0,1,6,0h8a2,2,0,0,1,2,2V14A2,2,0,0,1,14,16ZM6,2V14h8V2ZM19,14H18V2h1a1,1,0,0,1,1,1V13A1,1,0,0,1,19,14ZM2,14H1a1,1,0,0,1-1-1V3A1,1,0,0,1,1,2H2V14Z" transform="translate(2 4)"/>
+  </g>
+</svg>

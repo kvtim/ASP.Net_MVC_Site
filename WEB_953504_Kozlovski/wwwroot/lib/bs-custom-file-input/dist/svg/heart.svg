@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="18.5" viewBox="0 0 20 18.5">
+  <g id="heart" transform="translate(-2 -3)">
+    <path id="Icon_color" data-name="Icon color" d="M20,5.5A5.5,5.5,0,0,0,14.5,0,6.36,6.36,0,0,0,10,2.07,6.36,6.36,0,0,0,5.5,0,5.5,5.5,0,0,0,0,5.5C0,9.42,4.75,13.75,7,16l2.28,2.28a.75.75,0,0,0,.53.22h.38a.75.75,0,0,0,.53-.22L13,16C15.25,13.75,20,9.42,20,5.5Z" transform="translate(2 3)"/>
+  </g>
+</svg>

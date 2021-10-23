@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16">
+  <g id="tabs" transform="translate(-2 -4)">
+    <path id="Icon_color" data-name="Icon color" d="M18,16H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H18a2,2,0,0,1,2,2V14A2,2,0,0,1,18,16ZM3,2A1,1,0,0,0,2,3V14H18V6H10A1,1,0,0,1,9,5V3A1,1,0,0,0,8,2Zm9,0a1,1,0,0,0-1,1V4h7V3a1,1,0,0,0-1-1Z" transform="translate(2 4)"/>
+  </g>
+</svg>

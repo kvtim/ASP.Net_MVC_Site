@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Combined Shape</title>
+    <g id="2020" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Duravis_2020-OFFICIAL" transform="translate(-480.000000, -482.000000)" fill="#FFFFFF">
+            <g id="Components/Header/Desktop">
+                <g id="1---Atom/⚒/Button/XXL/Primary/Normal" transform="translate(455.000000, 470.000000)">
+                    <path d="M33,12 C37.418278,12 41,15.581722 41,20 C41,24.418278 37.418278,28 33,28 C28.581722,28 25,24.418278 25,20 C25,15.581722 28.581722,12 33,12 Z M31.1540297,17.0382002 C31.0588206,17.090186 31,17.187239 31,17.292331 L31,23.7076716 C31,23.8691343 31.1363683,24 31.3045068,24 C31.4165992,24 33.2685758,22.872993 36.8604366,20.618979 C36.9490481,20.5641674 37.0018293,20.4692581 37,20.3680638 C36.9980737,20.2668695 36.9418415,20.1738116 36.8512507,20.1220208 L31.4602621,17.0411235 C31.3660679,16.9873838 31.2492388,16.9862145 31.1540297,17.0382002 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

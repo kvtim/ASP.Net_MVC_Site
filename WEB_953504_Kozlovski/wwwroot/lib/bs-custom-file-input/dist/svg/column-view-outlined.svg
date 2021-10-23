@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16">
+  <g id="column_view_outlined" transform="translate(-2 -4)">
+    <path id="Icon_color" data-name="Icon color" d="M18,16H13a2,2,0,0,1-2-2V2a2,2,0,0,1,2-2h5a2,2,0,0,1,2,2V14A2,2,0,0,1,18,16ZM13,2V14h5V2ZM7,16H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H7A2,2,0,0,1,9,2V14A2,2,0,0,1,7,16ZM2,2V14H7V2Z" transform="translate(2 4)"/>
+  </g>
+</svg>
