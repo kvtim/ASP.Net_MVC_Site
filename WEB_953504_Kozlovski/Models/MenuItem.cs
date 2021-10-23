@@ -7,25 +7,25 @@ namespace WEB_953504_Kozlovski.Models
 {
     public class MenuItem
     {
-        // является ли страницей или методом контроллера
+        // whether it is a page or a controller method
         public bool IsPage { get; set; } = false;
 
-        // имя области
+        // area name
         public string Area { get; set; } = "";
 
-        // имя действия контроллера
+        // controller action name
         public string Action { get; set; } = "";
 
-        // имя контроллера
+        // controller name
         public string Controller { get; set; } = "";
 
-        // имя страницы
+        // page name
         public string Page { get; set; } = "";
 
-        // класс CSS для текущего пункта меню
+        // the CSS class for the current menu item
         public string Active { get; set; } = "";
 
-        // текст надписи
+        // lettering text
         public string Text { get; set; } = "";
     }
 }
