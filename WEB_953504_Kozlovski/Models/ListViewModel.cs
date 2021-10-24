@@ -15,6 +15,14 @@ namespace WEB_953504_Kozlovski.Models
             CurrentPage = current;
         }
 
+        /// <summary>
+        /// Get the view model of a list of objects
+        /// </summary>
+
+        /// <param name="list">original list of objects</param>
+        /// <param name="current">current page number</param>
+        /// <param name="itemsPerPage">count objects per page</param>
+        /// <returns>an object of the ListViewModel class</returns>
         public static ListViewModel<T> GetModel(IEnumerable<T> list, int current, int itemsPerPage)
         {
             var items = list.Skip((current - 1) * itemsPerPage).Take(itemsPerPage).ToList();

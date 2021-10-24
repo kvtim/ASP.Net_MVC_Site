@@ -13,7 +13,7 @@ namespace WEB_953504_Kozlovski.Entities
         public int Price { get; set; } // notebook price
         public string Image { get; set; } // image file name
  
-        public int NotebookGroupId { get; set; }
-        public NotebookGroup Group { get; set; }
+        public int BrandId { get; set; }
+        public Brand Brand { get; set; }
     }
 }
