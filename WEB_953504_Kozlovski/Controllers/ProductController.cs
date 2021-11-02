@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,15 +25,15 @@ namespace WEB_953504_Kozlovski.Controllers
 
         [Route("Catalog")]
         [Route("Catalog/Page_{pageNo}")]
-        public IActionResult Index(int? group, int pageNo)
+        public IActionResult Index(int? brand, int pageNo)
         {
-            var notebooksFiltered = _context.Notebooks.Where(d => !group.HasValue || d.BrandId == group.Value);
+            var notebooksFiltered = _context.Notebooks.Where(d => !brand.HasValue || d.BrandId == brand.Value);
 
             // Put a list of brands in ViewData
             ViewData["Brands"] = _context.Brands;
 
             // Get the id of the current brand and put it in TempData
-            ViewData["CurrentBrand"] = group ?? 0;
+            ViewData["CurrentBrand"] = brand ?? 0;
 
             var model = ListViewModel<Notebook>.GetModel(notebooksFiltered, pageNo, _pageSize);
             if (Request.IsAjaxRequest())

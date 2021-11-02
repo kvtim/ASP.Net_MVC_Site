@@ -41,7 +41,7 @@ namespace WEB_953504_Kozlovski.TagHelpers
             for (int i = 1; i <= PageTotal; i++)
             {
                 var url = _linkGenerator.GetPathByAction(Action, Controller,
-                    new  { pageNo = i, group = BrandId == 0 ? null : BrandId });
+                    new  { pageNo = i, brand = BrandId == 0 ? null : BrandId });
 
                 // getting the layout of one pager button
                 var item = GetPagerItem(url: url, text: i.ToString(), active: i == PageCurrent,

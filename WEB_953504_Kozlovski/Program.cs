@@ -21,6 +21,11 @@ namespace WEB_953504_Kozlovski
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                });
+                })
+            .ConfigureLogging(lp =>
+            {
+                lp.ClearProviders();
+                lp.AddFilter("Microsoft", LogLevel.None);
+            });
     }
 }

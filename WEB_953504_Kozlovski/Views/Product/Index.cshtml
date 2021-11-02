@@ -20,7 +20,7 @@
                 @foreach (var item in categories)
                 {
                     <a class="dropdown-item" asp-action="Index" asp-controller="Product"
-                       asp-route-group="@item.BrandId" asp-route-pageNo="1">@item.BrandName</a>
+                       asp-route-brand="@item.BrandId" asp-route-pageNo="1">@item.BrandName</a>
                 }
             </div>
         </div>
@@ -32,6 +32,6 @@
             </div>
         </div>
         <pager page-current="@Model.CurrentPage" page-total="@Model.TotalPages" action="Index" controller="Product"
-               group-id="@currentBrand"></pager>
+               brand-id="@currentBrand"></pager>
     </div>
 </div>

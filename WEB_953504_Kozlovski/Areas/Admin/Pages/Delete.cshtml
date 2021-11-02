@@ -1,0 +1,52 @@
+﻿@page
+@model WEB_953504_Kozlovski.Areas.Admin.Pages.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Notebook</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notebook.NotebookName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notebook.NotebookName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notebook.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notebook.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notebook.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notebook.Price)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notebook.Image)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notebook.Image)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Notebook.Brand)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Notebook.Brand.BrandId)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="Notebook.NotebookId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>
