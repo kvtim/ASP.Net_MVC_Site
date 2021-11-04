@@ -1,0 +1,41 @@
+﻿<h3>NotebooksList</h3>
+
+@if (Notebooks == null)
+{
+    <p>Загрузка ...</p>
+}
+else
+{
+    <div class="list-group">
+        @{
+            var i = 1;
+            foreach (var notebook in Notebooks)
+            {
+                <button type="button" class="list-group-item list-group-item-action
+                    @(SelectedId == notebook.NotebookId ? "active" : "")"
+                    @onclick="@(e => Selected(e, notebook.NotebookId))">
+                    @(i++) - @notebook.NotebookName
+                </button>
+            } 
+         }
+    </div>
+}
+
+@code {
+    [Parameter]
+    public IEnumerable<ListViewModel> Notebooks { get; set; }
+
+    [Parameter]
+    public EventCallback<IEnumerable<ListViewModel>> NotebooksChanged { get; set; }
+
+    private int SelectedId = 0;
+
+    [Parameter]
+    public EventCallback<int> SelectedObjectChanged { get; set; }
+
+    private void Selected(MouseEventArgs e, int id)
+    {
+        SelectedId = id;
+        SelectedObjectChanged.InvokeAsync(id);
+    }
+}

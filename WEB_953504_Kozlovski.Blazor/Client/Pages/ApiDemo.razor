@@ -1,0 +1,27 @@
+﻿@using WEB_953504_Kozlovski.Blazor.Client.Components
+
+@page "/apidemo"
+@inject HttpClient client
+
+<div class="container" style="padding: 20px">
+    <NotebooksList @bind-Notebooks="@Notebooks" SelectedObjectChanged="ShowDetails"></NotebooksList>
+    <NotebookDetails @bind-Notebook="SelectedNotebook"></NotebookDetails>
+</div>
+
+@code {
+    [Parameter]
+    public IEnumerable<ListViewModel> Notebooks { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Notebooks = await client.GetFromJsonAsync<IEnumerable<ListViewModel>>("api/notebooks");
+    }
+
+    [Parameter]
+    public DetailsViewModel SelectedNotebook { get; set; }
+
+    private async Task ShowDetails(int id)
+    {
+        SelectedNotebook = await  client.GetFromJsonAsync<DetailsViewModel>($"api/notebooks/{id}");
+    }
+}

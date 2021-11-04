@@ -1,0 +1,45 @@
+﻿@page "/counter"
+
+@using System.ComponentModel.DataAnnotations
+
+<h1>Counter</h1>
+
+<EditForm Model="formModel" OnValidSubmit="SetCounter">
+    <DataAnnotationsValidator />
+    <ValidationSummary /> <InputNumber @bind-Value="formModel.NewValue"></InputNumber>
+    <input type="submit"
+           class="btn btn-outline-info mt-2 mb-2"
+           value="Set counter">
+</EditForm>
+
+<p>Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private int currentCount = 0;
+
+    private FormModel formModel;
+
+    protected override void OnInitialized()
+    {
+        formModel = new();
+    }
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    private void SetCounter()
+    {
+        currentCount = formModel.NewValue;
+    }
+
+    class FormModel
+    {
+        [DataType("int")]
+        [Range(0, int.MaxValue)]
+        public int NewValue { get; set; }
+    }
+}

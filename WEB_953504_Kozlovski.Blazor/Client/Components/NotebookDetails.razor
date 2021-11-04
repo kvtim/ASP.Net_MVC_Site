@@ -1,0 +1,22 @@
+﻿@if (Notebook != null)
+{
+    <img src="@imageSrc" class="img-thumbnail" width="150" style="margin-top: 20px" />
+    <div style="margin-bottom: 20px">
+        <p>@Notebook.NotebookName - @Notebook.Description</p> <div class="badge badge-info ">@Notebook.Price $</div>
+    </div>
+}
+@code {
+    [Parameter]
+    public DetailsViewModel Notebook { get; set; }
+
+    [Parameter]
+    public EventCallback<DetailsViewModel> NotebookChanged { get; set; }
+
+    string imageSrc
+    {
+        get
+        {
+            return $"images/{Notebook.Image}";
+        }
+    }
+}
